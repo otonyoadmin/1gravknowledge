@@ -1,10 +1,11 @@
 ---
-title: Article 01
-date: 01-01-2014
+title: 'The Ideal Pragmatist works with the ideal attitude in the present'
+date: '01-01-2014 00:00'
 taxonomy:
-    category: [Topic 1]
-    tag: []
-    author: Alice Adams
+    category:
+        - 'Topic 1'
+    author:
+        - 'Alice Adams'
 ---
 
 Justo volumus mel ea, an quidam quodsi accommodare has? Tollit nullam honestatis pri ea, eu cum pertinax necessitatibus! Aeque prompta alienum eos no, sea quot copiosae te? At eos ignota inermis percipit, eu adhuc facilis legendos qui! Ne his reque soleat erroribus?
