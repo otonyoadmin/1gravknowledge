@@ -1,5 +1,5 @@
 ---
-title: 'The Ideal Pragmatist works with the ideal attitude in the present'
+title: 'The Ideal Pragmatist, works with the ideal attitude in the present'
 date: '01-01-2014 00:00'
 taxonomy:
     category:
