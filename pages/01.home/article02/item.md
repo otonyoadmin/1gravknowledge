@@ -1,11 +1,14 @@
 ---
-title: Article 02
-date: 01-02-2014
+title: 'Article 02'
+date: '01-02-2014 00:00'
 taxonomy:
-    category: [Topic 2]
-    tag: [tag1]
-    author: Bob Burns
-
+    category:
+        - 'Topic 2'
+        - 'Self Doubt - Self Esteem'
+    tag:
+        - tag1
+    author:
+        - 'Bob Burns'
 media: video
 ---
 
