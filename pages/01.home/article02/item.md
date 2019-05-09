@@ -1,9 +1,8 @@
 ---
-title: 'Article 02'
+title: 'The Willingness To Know'
 date: '01-02-2014 00:00'
 taxonomy:
     category:
-        - 'Topic 2'
         - 'Self Doubt - Self Esteem'
     tag:
         - tag1
@@ -12,7 +11,7 @@ taxonomy:
 media: video
 ---
 
-Ea feugiat verterem quo! Nisl meliore consectetuer mei cu, sed eligendi theophrastus interpretaris at. No prompta atomorum mel. Est eius adipisci ne! Voluptua deserunt cum te.
+The courage, will and intelligence necessary to understand the doubtless Self, the empty Self, the Self that enables yielding to mindfulness is enabled efortlessly by the inner awareness of of this abiding Self within us all. Thi
 
 Ut wisi saepe instructior pro, te possit salutatus his! Ne cum stet prompta! Ea commodo legendos pri. Vis idque vivendo eu, vix at essent blandit? Vim consul dolorum quaestio ex, nec ex voluptaria argumentum! Torquatos disputando ex vel. Cetero pertinacia duo et!
 
